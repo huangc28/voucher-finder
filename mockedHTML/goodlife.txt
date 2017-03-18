@@ -1,0 +1,1745 @@
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="806993">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=806993" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB" target="_blank">
+      <img alt="平假日可用，388抵500元~【MB white coffee】人氣超夯的咖椰牛油燒麵包來囉~烤至微酥麵包夾上特製咖椰醬與冰牛油，外酥內冰吃過就愛上！ 士林區 只要388元，即可享有【MB white coffee】平假日皆可抵用500元消費金額〈特別推薦：南洋主食-椒麻雞飯、泰式綠咖哩雞飯、泰式打拋豬肉飯、檳城蝦麵、咖哩拉薩雞麵、肉骨茶麵、鳳梨炒飯、月亮蝦餅、咖椰牛油燒麵包，飲品-白咖啡、印度拉茶、鴛鴦奶茶、薏米水、恐龍巧克力、港式凍檸茶、香蕉朱古力冰沙〉" src="https://s3.goodlife.tw/system/bt/000/806/993/images/mobile_small_1489459265.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>4711</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB" class="pk" data-share-description="平假日可用，388抵500元~【MB white coffee】人氣超夯的咖椰牛油燒麵包來囉~烤至微酥麵包夾上特製咖椰醬與冰牛油，外酥內冰吃過就愛上！ 士林區 只要388元，即可享有【MB white coffee】平假日皆可抵用500元消費金額〈特別推薦：南洋主食-椒麻雞飯、泰式綠咖哩雞飯、泰式打拋豬肉飯、檳城蝦麵、咖哩拉薩雞麵、肉骨茶麵、鳳梨炒飯、月亮蝦餅、咖椰牛油燒麵包，飲品-白咖啡、印度拉茶、鴛鴦奶茶、薏米水、恐龍巧克力、港式凍檸茶、香蕉朱古力冰沙〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB" class="tt" data-share-description="平假日可用，388抵500元~【MB white coffee】人氣超夯的咖椰牛油燒麵包來囉~烤至微酥麵包夾上特製咖椰醬與冰牛油，外酥內冰吃過就愛上！ 士林區 只要388元，即可享有【MB white coffee】平假日皆可抵用500元消費金額〈特別推薦：南洋主食-椒麻雞飯、泰式綠咖哩雞飯、泰式打拋豬肉飯、檳城蝦麵、咖哩拉薩雞麵、肉骨茶麵、鳳梨炒飯、月亮蝦餅、咖椰牛油燒麵包，飲品-白咖啡、印度拉茶、鴛鴦奶茶、薏米水、恐龍巧克力、港式凍檸茶、香蕉朱古力冰沙〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB" target="_blank">
+          【MB white coffee】
+</a>      </h2>
+    <h4><a href="/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB" target="_blank">平假日皆可抵用500元消費</a></h4>
+
+    <div class="price "><em>388</em>元
+      <span>
+          ( 原價<b>500</b>元,
+          <em>7.8</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市士林區中正路120-2號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市士林區中正路120-2號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/806993-MB-white-coffee-%E5%B9%B3%E5%81%87%E6%97%A5%E7%9A%86%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/806993/bt" data-topic="806993" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="805087">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=805087" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" target="_blank">
+      <img alt="只要988元(雙人價)即可享有【喜都健康養生涮涮鍋】原價1,800元雙人頂級龍蝦海陸套餐：龍蝦海鮮盤一份(波士頓龍蝦+阿根廷大魷魚+鯛魚片+孔雀蛤+牛奶蚵)+鮮嫩牛/雪花羊/梅花豬/鮮雞肉(4選2)+精緻菜盤兩份+白飯/烏龍麵/王子麵/冬粉(4選2)+雀巢咖啡、可爾必思、杜老爺冰淇淋、爆米花等內用自助吧無限享用(依各分店供應為主)。" src="https://s3.goodlife.tw/system/bt/000/805/087/images/mobile_small_1488929737.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>2143</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" class="pk" data-share-description="只要988元(雙人價)即可享有【喜都健康養生涮涮鍋】原價1,800元雙人頂級龍蝦海陸套餐：龍蝦海鮮盤一份(波士頓龍蝦+阿根廷大魷魚+鯛魚片+孔雀蛤+牛奶蚵)+鮮嫩牛/雪花羊/梅花豬/鮮雞肉(4選2)+精緻菜盤兩份+白飯/烏龍麵/王子麵/冬粉(4選2)+雀巢咖啡、可爾必思、杜老爺冰淇淋、爆米花等內用自助吧無限享用(依各分店供應為主)。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" class="tt" data-share-description="只要988元(雙人價)即可享有【喜都健康養生涮涮鍋】原價1,800元雙人頂級龍蝦海陸套餐：龍蝦海鮮盤一份(波士頓龍蝦+阿根廷大魷魚+鯛魚片+孔雀蛤+牛奶蚵)+鮮嫩牛/雪花羊/梅花豬/鮮雞肉(4選2)+精緻菜盤兩份+白飯/烏龍麵/王子麵/冬粉(4選2)+雀巢咖啡、可爾必思、杜老爺冰淇淋、爆米花等內用自助吧無限享用(依各分店供應為主)。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" target="_blank">
+          【喜都健康養生涮涮鍋】
+</a>      </h2>
+    <h4><a href="/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" target="_blank">雙人頂級龍蝦海陸套餐</a></h4>
+
+    <div class="price "><em>988</em>元
+      <span>
+          ( 原價<b>1800</b>元,
+          <em>5.5</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市文山區景興路202巷3號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市文山區景興路202巷3號(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/805087-%E5%96%9C%E9%83%BD%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E9%9B%99%E4%BA%BA%E9%A0%82%E7%B4%9A%E9%BE%8D%E8%9D%A6%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/805087/bt" data-topic="805087" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="800487">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=800487" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771" target="_blank">
+      <img alt="只要999元(四人價)即可享有【Lacuz《台大公館店》】原價1,771元泰經典四人小桌宴：泰式海鮮鍋一份(含三點蟹+小章魚+蛤蜊+曼波魚皮+白蝦+淡菜+腰子貝+魚片+扇貝+鮮蚵)+月亮蝦餅一份+清蒸檸檬魚片一份+酸辣生蝦一份+椒麻雞一份+打拋豬一份+自助飲料吧、茉莉香米無限享用。好康再加碼：加贈蝦醬空心菜一份！" src="https://s3.goodlife.tw/system/bt/000/800/487/images/mobile_small_1487374533.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>5984</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771" class="pk" data-share-description="只要999元(四人價)即可享有【Lacuz《台大公館店》】原價1,771元泰經典四人小桌宴：泰式海鮮鍋一份(含三點蟹+小章魚+蛤蜊+曼波魚皮+白蝦+淡菜+腰子貝+魚片+扇貝+鮮蚵)+月亮蝦餅一份+清蒸檸檬魚片一份+酸辣生蝦一份+椒麻雞一份+打拋豬一份+自助飲料吧、茉莉香米無限享用。好康再加碼：加贈蝦醬空心菜一份！" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771" class="tt" data-share-description="只要999元(四人價)即可享有【Lacuz《台大公館店》】原價1,771元泰經典四人小桌宴：泰式海鮮鍋一份(含三點蟹+小章魚+蛤蜊+曼波魚皮+白蝦+淡菜+腰子貝+魚片+扇貝+鮮蚵)+月亮蝦餅一份+清蒸檸檬魚片一份+酸辣生蝦一份+椒麻雞一份+打拋豬一份+自助飲料吧、茉莉香米無限享用。好康再加碼：加贈蝦醬空心菜一份！" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771" target="_blank">
+          【Lacuz《台大公館店》】
+</a>      </h2>
+    <h4><a href="/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771" target="_blank">泰經典四人小桌宴$999即可享$1771</a></h4>
+
+    <div class="price "><em>999</em>元
+      <span>
+          ( 原價<b>1771</b>元,
+          <em>5.6</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市大安區羅斯福路四段85號2樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市大安區羅斯福路四段85號2樓
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/800487-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E6%B3%B0%E7%B6%93%E5%85%B8%E5%9B%9B%E4%BA%BA%E5%B0%8F%E6%A1%8C%E5%AE%B4$999%E5%8D%B3%E5%8F%AF%E4%BA%AB$1771/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/800487/bt" data-topic="800487" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="804738">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=804738" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD" target="_blank">
+      <img alt="店取：只要149元即可享有【黑橋牌】原價180元珍珠丸子一份。" src="https://s3.goodlife.tw/system/bt/000/804/738/images/mobile_small_1488843364.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>2151</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD" class="pk" data-share-description="店取：只要149元即可享有【黑橋牌】原價180元珍珠丸子一份。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD" class="tt" data-share-description="店取：只要149元即可享有【黑橋牌】原價180元珍珠丸子一份。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD" target="_blank">
+          【黑橋牌】
+</a>      </h2>
+    <h4><a href="/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD" target="_blank">珍珠丸子一份</a></h4>
+
+    <div class="price "><em>149</em>元
+      <span>
+          ( 原價<b>180</b>元,
+          <em>8.3</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市萬華區康定路332號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市萬華區康定路332號(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/804738-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E4%B8%B8%E5%AD%90%E4%B8%80%E4%BB%BD/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/804738/bt" data-topic="804738" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="804739">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=804739" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD" target="_blank">
+      <img alt="店取：只要139元起即可享有【黑橋牌】原價最高800元珍珠香腸(300g/份)：(A)一份方案/(B)三份方案/(C)五份方案，口味可選：原味/辣味/蒜味。" src="https://s3.goodlife.tw/system/bt/000/804/739/images/mobile_small_1488843364.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>2178</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD" class="pk" data-share-description="店取：只要139元起即可享有【黑橋牌】原價最高800元珍珠香腸(300g/份)：(A)一份方案/(B)三份方案/(C)五份方案，口味可選：原味/辣味/蒜味。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD" class="tt" data-share-description="店取：只要139元起即可享有【黑橋牌】原價最高800元珍珠香腸(300g/份)：(A)一份方案/(B)三份方案/(C)五份方案，口味可選：原味/辣味/蒜味。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD" target="_blank">
+          【黑橋牌】
+</a>      </h2>
+    <h4><a href="/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD" target="_blank">珍珠香腸(300g/份)</a></h4>
+
+    <div class="price "><em>139</em>元
+      <span>
+          ( 原價<b>160</b>元,
+          <em>8.7</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市萬華區漢口街二段9號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市萬華區漢口街二段9號(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/804739-%E9%BB%91%E6%A9%8B%E7%89%8C-%E7%8F%8D%E7%8F%A0%E9%A6%99%E8%85%B8-300g-%E4%BB%BD/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/804739/bt" data-topic="804739" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="806056">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=806056" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8" target="_blank">
+      <img alt="外帶：平均每張最低只要88元起即可享【新東陽麥記港式燒臘便當】餐點兌換套券1張/2張，每張皆含：美味双拼飯(叉燒/燒鴨/油雞/香腸4選2)/蜜汁叉燒飯/玫瑰油雞飯/脆皮燒鴨飯/美味香腸飯/脆皮燒肉飯(6選1)。" src="https://s3.goodlife.tw/system/bt/000/806/056/images/mobile_small_1489188936.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>1180</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8" class="pk" data-share-description="外帶：平均每張最低只要88元起即可享【新東陽麥記港式燒臘便當】餐點兌換套券1張/2張，每張皆含：美味双拼飯(叉燒/燒鴨/油雞/香腸4選2)/蜜汁叉燒飯/玫瑰油雞飯/脆皮燒鴨飯/美味香腸飯/脆皮燒肉飯(6選1)。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8" class="tt" data-share-description="外帶：平均每張最低只要88元起即可享【新東陽麥記港式燒臘便當】餐點兌換套券1張/2張，每張皆含：美味双拼飯(叉燒/燒鴨/油雞/香腸4選2)/蜜汁叉燒飯/玫瑰油雞飯/脆皮燒鴨飯/美味香腸飯/脆皮燒肉飯(6選1)。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8" target="_blank">
+          【新東陽麥記港式燒臘便當】
+</a>      </h2>
+    <h4><a href="/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8" target="_blank">餐點兌換套券</a></h4>
+
+    <div class="price "><em>88</em>元
+      <span>
+          ( 原價<b>100</b>元,
+          <em>8.8</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市大安區忠孝東路四段303號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市大安區忠孝東路四段...(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/806056-%E6%96%B0%E6%9D%B1%E9%99%BD%E9%BA%A5%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6-%E9%A4%90%E9%BB%9E%E5%85%8C%E6%8F%9B%E5%A5%97%E5%88%B8/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/806056/bt" data-topic="806056" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="781722">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=781722" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet" target="_blank">
+      <img alt="吃到飽！只要399元即可享有【悅火鍋】原價439元單人平假日豪華火鍋Buffet：海鮮/雞湯/味噌/藥膳/麻辣/東北酸白菜(湯底6選1)+現切美國牛五花、現切綿羊肩肉、嚴選海鮮、特色烤物、手工燒賣、手工壽司、冰淇淋、甜點及飲料等無限享用！" src="https://s3.goodlife.tw/system/bt/000/781/722/images/mobile_small_1481844997.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>16825</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet" class="pk" data-share-description="吃到飽！只要399元即可享有【悅火鍋】原價439元單人平假日豪華火鍋Buffet：海鮮/雞湯/味噌/藥膳/麻辣/東北酸白菜(湯底6選1)+現切美國牛五花、現切綿羊肩肉、嚴選海鮮、特色烤物、手工燒賣、手工壽司、冰淇淋、甜點及飲料等無限享用！" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet" class="tt" data-share-description="吃到飽！只要399元即可享有【悅火鍋】原價439元單人平假日豪華火鍋Buffet：海鮮/雞湯/味噌/藥膳/麻辣/東北酸白菜(湯底6選1)+現切美國牛五花、現切綿羊肩肉、嚴選海鮮、特色烤物、手工燒賣、手工壽司、冰淇淋、甜點及飲料等無限享用！" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet" target="_blank">
+          【悅火鍋】
+</a>      </h2>
+    <h4><a href="/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet" target="_blank">單人平假日豪華火鍋Buffet</a></h4>
+
+    <div class="price "><em>399</em>元
+      <span>
+          ( 原價<b>439</b>元,
+          <em>9.1</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市三重區中正北路399號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市三重區中正北路399號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/781722-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E7%81%AB%E9%8D%8BBuffet/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/781722/bt" data-topic="781722" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="806640">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=806640" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" target="_blank">
+      <img alt="近捷運西湖站！超熱銷超好評【MR. TSUO 左先生的西式廚房】主廚精心配出 2017 推出新菜色！讓您擁有視覺、味覺多重享受！ 內湖區 只要350元，即可享有【MR. TSUO 左先生的西式廚房】平日(15:00-21:00)及假日皆可抵用500元消費金額〈特別推薦：炭烤戰斧豬、左先生經典肋眼、松阪豬奶油燉飯、蒜味鯷魚醬中卷義大利麵、沙嗲雞肉潛艇堡、漁夫沙拉、左先生的炸物、榛果巧克力、盆栽奶酪、辣味青蔥干貝義大利麵〉" src="https://s3.goodlife.tw/system/bt/000/806/640/images/mobile_small_1489372844.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>4107</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" class="pk" data-share-description="近捷運西湖站！超熱銷超好評【MR. TSUO 左先生的西式廚房】主廚精心配出 2017 推出新菜色！讓您擁有視覺、味覺多重享受！ 內湖區 只要350元，即可享有【MR. TSUO 左先生的西式廚房】平日(15:00-21:00)及假日皆可抵用500元消費金額〈特別推薦：炭烤戰斧豬、左先生經典肋眼、松阪豬奶油燉飯、蒜味鯷魚醬中卷義大利麵、沙嗲雞肉潛艇堡、漁夫沙拉、左先生的炸物、榛果巧克力、盆栽奶酪、辣味青蔥干貝義大利麵〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" class="tt" data-share-description="近捷運西湖站！超熱銷超好評【MR. TSUO 左先生的西式廚房】主廚精心配出 2017 推出新菜色！讓您擁有視覺、味覺多重享受！ 內湖區 只要350元，即可享有【MR. TSUO 左先生的西式廚房】平日(15:00-21:00)及假日皆可抵用500元消費金額〈特別推薦：炭烤戰斧豬、左先生經典肋眼、松阪豬奶油燉飯、蒜味鯷魚醬中卷義大利麵、沙嗲雞肉潛艇堡、漁夫沙拉、左先生的炸物、榛果巧克力、盆栽奶酪、辣味青蔥干貝義大利麵〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" target="_blank">
+          【MR. TSUO 左先生的西式廚房】
+</a>      </h2>
+    <h4><a href="/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" target="_blank">可抵用500元消費金額</a></h4>
+
+    <div class="price "><em>350</em>元
+      <span>
+          ( 原價<b>500</b>元,
+          <em>7.0</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市內湖區洲子街106號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市內湖區洲子街106號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/806640-MR-TSUO-%E5%B7%A6%E5%85%88%E7%94%9F%E7%9A%84%E8%A5%BF%E5%BC%8F%E5%BB%9A%E6%88%BF-%E5%8F%AF%E6%8A%B5%E7%94%A8500%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/806640/bt" data-topic="806640" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="782457">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=782457" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet" target="_blank">
+      <img alt="吃到飽！只要359元即可享有【悅火鍋】原價439元單人平日火鍋Buffet：海鮮/雞湯/味噌/藥膳/麻辣/東北酸白菜(湯底6選1)+現切美國牛五花、現切綿羊肩肉、嚴選海鮮、特色烤物、手工燒賣、手工壽司、冰淇淋、甜點及飲料等無限享用！" src="https://s3.goodlife.tw/system/bt/000/782/457/images/mobile_small_1482104165.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>15716</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet" class="pk" data-share-description="吃到飽！只要359元即可享有【悅火鍋】原價439元單人平日火鍋Buffet：海鮮/雞湯/味噌/藥膳/麻辣/東北酸白菜(湯底6選1)+現切美國牛五花、現切綿羊肩肉、嚴選海鮮、特色烤物、手工燒賣、手工壽司、冰淇淋、甜點及飲料等無限享用！" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet" class="tt" data-share-description="吃到飽！只要359元即可享有【悅火鍋】原價439元單人平日火鍋Buffet：海鮮/雞湯/味噌/藥膳/麻辣/東北酸白菜(湯底6選1)+現切美國牛五花、現切綿羊肩肉、嚴選海鮮、特色烤物、手工燒賣、手工壽司、冰淇淋、甜點及飲料等無限享用！" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet" target="_blank">
+          【悅火鍋】
+</a>      </h2>
+    <h4><a href="/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet" target="_blank">單人平日火鍋Buffet</a></h4>
+
+    <div class="price "><em>359</em>元
+      <span>
+          ( 原價<b>439</b>元,
+          <em>8.2</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市三重區中正北路399號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市三重區中正北路399號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/782457-%E6%82%85%E7%81%AB%E9%8D%8B-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E7%81%AB%E9%8D%8BBuffet/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/782457/bt" data-topic="782457" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="804737">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=804737" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" target="_blank">
+      <img alt="只要119元起即可享有【一合金鍋物】原價最高667元鍋物套餐：(A)單人經濟套餐/(B)雙人小海陸套餐。" src="https://s3.goodlife.tw/system/bt/000/804/737/images/mobile_small_1488843348.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>1779</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" class="pk" data-share-description="只要119元起即可享有【一合金鍋物】原價最高667元鍋物套餐：(A)單人經濟套餐/(B)雙人小海陸套餐。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" class="tt" data-share-description="只要119元起即可享有【一合金鍋物】原價最高667元鍋物套餐：(A)單人經濟套餐/(B)雙人小海陸套餐。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" target="_blank">
+          【一合金鍋物】
+</a>      </h2>
+    <h4><a href="/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90" target="_blank">單人經濟套餐/雙人海陸套餐</a></h4>
+
+    <div class="price "><em>119</em>元
+      <span>
+          ( 原價<b>199</b>元,
+          <em>6.0</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市三重區忠孝路二段46號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市三重區忠孝路二段46號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/804737-%E4%B8%80%E5%90%88%E9%87%91%E9%8D%8B%E7%89%A9-%E5%96%AE%E4%BA%BA%E7%B6%93%E6%BF%9F%E5%A5%97%E9%A4%90-%E9%9B%99%E4%BA%BA%E6%B5%B7%E9%99%B8%E5%A5%97%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/804737/bt" data-topic="804737" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="786917">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=786917" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF" target="_blank">
+      <img alt="只要398元(雙人價)即可享用【錦華大飯店】原價1254元10道好食雙人套餐：肉絲蛋炒飯/白菜肉絲炒麵/白菜肉絲炒年糕(3選1)+精緻港點(豉椒蒸排骨/翡翠魚翅餃/魚子燒賣皇/鮮蝦腐肉捲/泰式炸蝦餅/清蒸蘿蔔糕等(任選6)+鮮炒時蔬+茗茶+水果+甜湯！" src="https://s3.goodlife.tw/system/bt/000/786/917/images/mobile_small_1483054555.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>12701</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF" class="pk" data-share-description="只要398元(雙人價)即可享用【錦華大飯店】原價1254元10道好食雙人套餐：肉絲蛋炒飯/白菜肉絲炒麵/白菜肉絲炒年糕(3選1)+精緻港點(豉椒蒸排骨/翡翠魚翅餃/魚子燒賣皇/鮮蝦腐肉捲/泰式炸蝦餅/清蒸蘿蔔糕等(任選6)+鮮炒時蔬+茗茶+水果+甜湯！" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF" class="tt" data-share-description="只要398元(雙人價)即可享用【錦華大飯店】原價1254元10道好食雙人套餐：肉絲蛋炒飯/白菜肉絲炒麵/白菜肉絲炒年糕(3選1)+精緻港點(豉椒蒸排骨/翡翠魚翅餃/魚子燒賣皇/鮮蝦腐肉捲/泰式炸蝦餅/清蒸蘿蔔糕等(任選6)+鮮炒時蔬+茗茶+水果+甜湯！" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF" target="_blank">
+          【錦華大飯店】
+</a>      </h2>
+    <h4><a href="/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF" target="_blank">10道好食雙人套餐：肉絲蛋炒飯</a></h4>
+
+    <div class="price "><em>398</em>元
+      <span>
+          ( 原價<b>1254</b>元,
+          <em>3.2</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區新生北路二段28號2樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區新生北路二段28號2樓
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/786917-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-10%E9%81%93%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90%EF%BC%9A%E8%82%89%E7%B5%B2%E8%9B%8B%E7%82%92%E9%A3%AF/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/786917/bt" data-topic="786917" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="800087">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=800087" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">
+      <img alt="燦放綿延不絕的優雅味蕾、一嚐世界級的山海珍饈！【美麗信花園酒店】特選食材烹製多國料理，讓您隨著香氣來一場世界之旅！ 中山區 只要699元，即可享有【美麗信花園酒店】春暖和風洋食-五星頂級吃到飽〈特別推薦：爐烤現切肋眼牛排、白蝦、海鮮吧、生魚片大賞(鮭魚、鮪魚、旗魚等)、七味鮮鮪魚襯香橙芥末醬、蜜汁烤香魚、鳥唐揚、香烤海鮮、和風起司焗扇貝、鮮茄起司焗釀鮭魚、南洋式烤雞棒腿、京都焗豬扒、日式丼飯、牛肉丼、日式壽喜燒(牛肉/豬肉)、各式繽紛甜點、俄羅斯卡比索冰淇淋等無限享用〉" src="https://s3.goodlife.tw/system/bt/000/800/087/images/mobile_small_1487212860.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>39776</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD" class="pk" data-share-description="燦放綿延不絕的優雅味蕾、一嚐世界級的山海珍饈！【美麗信花園酒店】特選食材烹製多國料理，讓您隨著香氣來一場世界之旅！ 中山區 只要699元，即可享有【美麗信花園酒店】春暖和風洋食-五星頂級吃到飽〈特別推薦：爐烤現切肋眼牛排、白蝦、海鮮吧、生魚片大賞(鮭魚、鮪魚、旗魚等)、七味鮮鮪魚襯香橙芥末醬、蜜汁烤香魚、鳥唐揚、香烤海鮮、和風起司焗扇貝、鮮茄起司焗釀鮭魚、南洋式烤雞棒腿、京都焗豬扒、日式丼飯、牛肉丼、日式壽喜燒(牛肉/豬肉)、各式繽紛甜點、俄羅斯卡比索冰淇淋等無限享用〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD" class="tt" data-share-description="燦放綿延不絕的優雅味蕾、一嚐世界級的山海珍饈！【美麗信花園酒店】特選食材烹製多國料理，讓您隨著香氣來一場世界之旅！ 中山區 只要699元，即可享有【美麗信花園酒店】春暖和風洋食-五星頂級吃到飽〈特別推薦：爐烤現切肋眼牛排、白蝦、海鮮吧、生魚片大賞(鮭魚、鮪魚、旗魚等)、七味鮮鮪魚襯香橙芥末醬、蜜汁烤香魚、鳥唐揚、香烤海鮮、和風起司焗扇貝、鮮茄起司焗釀鮭魚、南洋式烤雞棒腿、京都焗豬扒、日式丼飯、牛肉丼、日式壽喜燒(牛肉/豬肉)、各式繽紛甜點、俄羅斯卡比索冰淇淋等無限享用〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">
+          【美麗信花園酒店】
+</a>      </h2>
+    <h4><a href="/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">五星頂級吃到飽</a></h4>
+
+    <div class="price "><em>699</em>元
+      <span>
+          ( 原價<b>1078</b>元,
+          <em>6.5</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區市民大道三段83號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區市民大道三段83號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/800087-%E7%BE%8E%E9%BA%97%E4%BF%A1%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97-%E4%BA%94%E6%98%9F%E9%A0%82%E7%B4%9A%E5%90%83%E5%88%B0%E9%A3%BD/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/800087/bt" data-topic="800087" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="805652">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=805652" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90" target="_blank">
+      <img alt="近松江南京站！滿桌港式極奢華享受，一人居然只要199元！【錦華大飯店】傳承30年道地美味，點心、主食、水果，琳瑯滿目，豐盛好滿足！ 中山區 只要398元(雙人價)，即可享有【錦華大飯店】港式好食雙人套餐〈肉絲蛋炒飯/白菜肉絲炒麵/白菜肉絲炒年糕 3選1 + 30道精緻港點選6(特別推薦：小籠湯包/鼓椒蒸排骨/翡翠魚翅餃/魚子燒賣黃/鮮肉芋頭丸/蠔皇叉燒包/蠔油蟹肉腳/五香芋頭糕/芋香麻糬/紹興酒菜餃盒/香蔥香蛤蜊/爵士奶黃包/鮮蝦腐皮捲/泰式炸蝦餅/蜜汁叉燒酥/炸奶油千絲捲/蜜製冷麻糬/芒..." src="https://s3.goodlife.tw/system/bt/000/805/652/images/mobile_small_1489027329.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>9923</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90" class="pk" data-share-description="近松江南京站！滿桌港式極奢華享受，一人居然只要199元！【錦華大飯店】傳承30年道地美味，點心、主食、水果，琳瑯滿目，豐盛好滿足！ 中山區 只要398元(雙人價)，即可享有【錦華大飯店】港式好食雙人套餐〈肉絲蛋炒飯/白菜肉絲炒麵/白菜肉絲炒年糕 3選1 + 30道精緻港點選6(特別推薦：小籠湯包/鼓椒蒸排骨/翡翠魚翅餃/魚子燒賣黃/鮮肉芋頭丸/蠔皇叉燒包/蠔油蟹肉腳/五香芋頭糕/芋香麻糬/紹興酒菜餃盒/香蔥香蛤蜊/爵士奶黃包/鮮蝦腐皮捲/泰式炸蝦餅/蜜汁叉燒酥/炸奶油千絲捲/蜜製冷麻糬/芒..." data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90" class="tt" data-share-description="近松江南京站！滿桌港式極奢華享受，一人居然只要199元！【錦華大飯店】傳承30年道地美味，點心、主食、水果，琳瑯滿目，豐盛好滿足！ 中山區 只要398元(雙人價)，即可享有【錦華大飯店】港式好食雙人套餐〈肉絲蛋炒飯/白菜肉絲炒麵/白菜肉絲炒年糕 3選1 + 30道精緻港點選6(特別推薦：小籠湯包/鼓椒蒸排骨/翡翠魚翅餃/魚子燒賣黃/鮮肉芋頭丸/蠔皇叉燒包/蠔油蟹肉腳/五香芋頭糕/芋香麻糬/紹興酒菜餃盒/香蔥香蛤蜊/爵士奶黃包/鮮蝦腐皮捲/泰式炸蝦餅/蜜汁叉燒酥/炸奶油千絲捲/蜜製冷麻糬/芒..." data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90" target="_blank">
+          【錦華大飯店】
+</a>      </h2>
+    <h4><a href="/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90" target="_blank">港式好食雙人套餐</a></h4>
+
+    <div class="price "><em>398</em>元
+      <span>
+          ( 原價<b>1208</b>元,
+          <em>3.3</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區新生北路二段28號2樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區新生北路二段28號2樓
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/805652-%E9%8C%A6%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97-%E6%B8%AF%E5%BC%8F%E5%A5%BD%E9%A3%9F%E9%9B%99%E4%BA%BA%E5%A5%97%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/805652/bt" data-topic="805652" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="797505">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=797505" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90" target="_blank">
+      <img alt="【角子虎北方水餃館】將北方精緻麵食與本土口味相結合，嚴選高品質原物料、精確把關，研發創新的產品，提供高貴不貴的美味料理！ 8家分店 只要199元(雙人價)，即可享有【角子虎北方水餃館】雙人超值分享餐〈含韭菜水餃/高麗菜水餃 二選一 + 鮮肉小籠湯包一份 + 芋泥鍋餅/紅豆鍋餅/蔥油餅 三選一 + 酸辣湯一碗 + 精緻小菜二份 + 小米粥及熱茶內用限量免費供應〉" src="https://s3.goodlife.tw/system/bt/000/797/505/images/mobile_small_1486435263.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>62566</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90" class="pk" data-share-description="【角子虎北方水餃館】將北方精緻麵食與本土口味相結合，嚴選高品質原物料、精確把關，研發創新的產品，提供高貴不貴的美味料理！ 8家分店 只要199元(雙人價)，即可享有【角子虎北方水餃館】雙人超值分享餐〈含韭菜水餃/高麗菜水餃 二選一 + 鮮肉小籠湯包一份 + 芋泥鍋餅/紅豆鍋餅/蔥油餅 三選一 + 酸辣湯一碗 + 精緻小菜二份 + 小米粥及熱茶內用限量免費供應〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90" class="tt" data-share-description="【角子虎北方水餃館】將北方精緻麵食與本土口味相結合，嚴選高品質原物料、精確把關，研發創新的產品，提供高貴不貴的美味料理！ 8家分店 只要199元(雙人價)，即可享有【角子虎北方水餃館】雙人超值分享餐〈含韭菜水餃/高麗菜水餃 二選一 + 鮮肉小籠湯包一份 + 芋泥鍋餅/紅豆鍋餅/蔥油餅 三選一 + 酸辣湯一碗 + 精緻小菜二份 + 小米粥及熱茶內用限量免費供應〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90" target="_blank">
+          【角子虎北方水餃館】
+</a>      </h2>
+    <h4><a href="/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90" target="_blank">雙人超值分享餐</a></h4>
+
+    <div class="price "><em>199</em>元
+      <span>
+          ( 原價<b>325</b>元,
+          <em>6.1</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區吉林路211號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區吉林路211號(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/797505-%E8%A7%92%E5%AD%90%E8%99%8E%E5%8C%97%E6%96%B9%E6%B0%B4%E9%A4%83%E9%A4%A8-%E9%9B%99%E4%BA%BA%E8%B6%85%E5%80%BC%E5%88%86%E4%BA%AB%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/797505/bt" data-topic="797505" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="805650">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=805650" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97" target="_blank">
+      <img alt="【青禾幸福鍋物涮涮屋】火烤2吃大享受320元！鴛鴦鍋、火烤2吃鍋自由選擇，涮上鮮嫩肉片與甘美海鮮，每一口都能享受到鹹酸醇香的好滋味！近捷運永安市場站！ 中和區 只要320元，即可享有【青禾幸福鍋物涮涮屋】火烤2吃大享受〈含鴛鴦鍋/火烤2吃鍋 2選1 + 自由配三鮮：鯛魚/蛤蠣/鮮蝦/軟絲/國宴魚/白旗魚/小花枝/鮭魚肚/貴妃鮑魚片/小卷/鮮蚵/扇貝 12選3 + 綜合肉片：梅花豬/雪花牛/低脂雞/A級羊肉 4選3，鴛鴦鍋底為原味+東北酸白菜，火烤2吃鍋底為原味/東北酸白菜 2選1〉週一至週..." src="https://s3.goodlife.tw/system/bt/000/805/650/images/mobile_small_1489027324.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>9385</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97" class="pk" data-share-description="【青禾幸福鍋物涮涮屋】火烤2吃大享受320元！鴛鴦鍋、火烤2吃鍋自由選擇，涮上鮮嫩肉片與甘美海鮮，每一口都能享受到鹹酸醇香的好滋味！近捷運永安市場站！ 中和區 只要320元，即可享有【青禾幸福鍋物涮涮屋】火烤2吃大享受〈含鴛鴦鍋/火烤2吃鍋 2選1 + 自由配三鮮：鯛魚/蛤蠣/鮮蝦/軟絲/國宴魚/白旗魚/小花枝/鮭魚肚/貴妃鮑魚片/小卷/鮮蚵/扇貝 12選3 + 綜合肉片：梅花豬/雪花牛/低脂雞/A級羊肉 4選3，鴛鴦鍋底為原味+東北酸白菜，火烤2吃鍋底為原味/東北酸白菜 2選1〉週一至週..." data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97" class="tt" data-share-description="【青禾幸福鍋物涮涮屋】火烤2吃大享受320元！鴛鴦鍋、火烤2吃鍋自由選擇，涮上鮮嫩肉片與甘美海鮮，每一口都能享受到鹹酸醇香的好滋味！近捷運永安市場站！ 中和區 只要320元，即可享有【青禾幸福鍋物涮涮屋】火烤2吃大享受〈含鴛鴦鍋/火烤2吃鍋 2選1 + 自由配三鮮：鯛魚/蛤蠣/鮮蝦/軟絲/國宴魚/白旗魚/小花枝/鮭魚肚/貴妃鮑魚片/小卷/鮮蚵/扇貝 12選3 + 綜合肉片：梅花豬/雪花牛/低脂雞/A級羊肉 4選3，鴛鴦鍋底為原味+東北酸白菜，火烤2吃鍋底為原味/東北酸白菜 2選1〉週一至週..." data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97" target="_blank">
+          【青禾幸福鍋物涮涮屋】
+</a>      </h2>
+    <h4><a href="/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97" target="_blank">火烤2吃大享受</a></h4>
+
+    <div class="price "><em>320</em>元
+      <span>
+          ( 原價<b>630</b>元,
+          <em>5.1</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市中和區中和路380號2樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市中和區中和路380號2樓
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/805650-%E9%9D%92%E7%A6%BE%E5%B9%B8%E7%A6%8F%E9%8D%8B%E7%89%A9%E6%B6%AE%E6%B6%AE%E5%B1%8B-%E7%81%AB%E7%83%A42%E5%90%83%E5%A4%A7%E4%BA%AB%E5%8F%97/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/805650/bt" data-topic="805650" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="805088">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=805088" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88" target="_blank">
+      <img alt="只要890元即可享有【宜家商旅】原價1,500元不分平假日！JS DINER食尚獨享單人專案：酥炸阿拉斯加蟹肉春捲+主廚今日特製沙拉+JS DINER私房燉湯+頂級Prime美國牛小排搭輕燻馬鈴薯泥佐貝亞爾奈斯醬(6盎司)/原木炭烤咖啡風味紐西蘭羊排+波特酒醬汁/嫩煎深海鱸魚佐紫色芥末子醬汁(三選一)+主廚今日甜點+美式咖啡/特調冰茶/格雷伯爵奶茶/黃金韃坦蕎麥茶/檸檬香橘茶/覆盆子香草茶/黑莓接骨木花茶/有機洋甘菊(任選一，現場可續杯一次，熱茶類採回沖方式)。" src="https://s3.goodlife.tw/system/bt/000/805/088/images/mobile_small_1488929739.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>971</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88" class="pk" data-share-description="只要890元即可享有【宜家商旅】原價1,500元不分平假日！JS DINER食尚獨享單人專案：酥炸阿拉斯加蟹肉春捲+主廚今日特製沙拉+JS DINER私房燉湯+頂級Prime美國牛小排搭輕燻馬鈴薯泥佐貝亞爾奈斯醬(6盎司)/原木炭烤咖啡風味紐西蘭羊排+波特酒醬汁/嫩煎深海鱸魚佐紫色芥末子醬汁(三選一)+主廚今日甜點+美式咖啡/特調冰茶/格雷伯爵奶茶/黃金韃坦蕎麥茶/檸檬香橘茶/覆盆子香草茶/黑莓接骨木花茶/有機洋甘菊(任選一，現場可續杯一次，熱茶類採回沖方式)。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88" class="tt" data-share-description="只要890元即可享有【宜家商旅】原價1,500元不分平假日！JS DINER食尚獨享單人專案：酥炸阿拉斯加蟹肉春捲+主廚今日特製沙拉+JS DINER私房燉湯+頂級Prime美國牛小排搭輕燻馬鈴薯泥佐貝亞爾奈斯醬(6盎司)/原木炭烤咖啡風味紐西蘭羊排+波特酒醬汁/嫩煎深海鱸魚佐紫色芥末子醬汁(三選一)+主廚今日甜點+美式咖啡/特調冰茶/格雷伯爵奶茶/黃金韃坦蕎麥茶/檸檬香橘茶/覆盆子香草茶/黑莓接骨木花茶/有機洋甘菊(任選一，現場可續杯一次，熱茶類採回沖方式)。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88" target="_blank">
+          【宜家商旅】
+</a>      </h2>
+    <h4><a href="/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88" target="_blank">食尚獨享單人專案</a></h4>
+
+    <div class="price "><em>890</em>元
+      <span>
+          ( 原價<b>1500</b>元,
+          <em>5.9</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市內湖區成功路2段512號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市內湖區成功路2段512號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/805088-%E5%AE%9C%E5%AE%B6%E5%95%86%E6%97%85-%E9%A3%9F%E5%B0%9A%E7%8D%A8%E4%BA%AB%E5%96%AE%E4%BA%BA%E5%B0%88%E6%A1%88/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/805088/bt" data-topic="805088" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食" data-topic_id="806436">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=806436" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6" target="_blank">
+      <img alt="只要450元(含運)即可享有【麗禧溫泉酒店】原價638元頂級麗禧饗食專案：雍翠庭英式下午茶乙客。購買兩張可兌換水岸茶屋法式下午茶乙客或雍翠庭午間套餐乙客或歐陸餐廳午間套餐乙客、購買三張可兌換歐陸餐廳午間或雍翠庭午晚間套餐乙客、購買四張可兌換歐陸餐廳晚間或雍翠庭午晚間套餐乙客。平假日皆可用、購買越多選擇多！" src="https://s3.goodlife.tw/system/bt/000/806/436/images/mobile_small_1489361839.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>332</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6" class="pk" data-share-description="只要450元(含運)即可享有【麗禧溫泉酒店】原價638元頂級麗禧饗食專案：雍翠庭英式下午茶乙客。購買兩張可兌換水岸茶屋法式下午茶乙客或雍翠庭午間套餐乙客或歐陸餐廳午間套餐乙客、購買三張可兌換歐陸餐廳午間或雍翠庭午晚間套餐乙客、購買四張可兌換歐陸餐廳晚間或雍翠庭午晚間套餐乙客。平假日皆可用、購買越多選擇多！" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6" class="tt" data-share-description="只要450元(含運)即可享有【麗禧溫泉酒店】原價638元頂級麗禧饗食專案：雍翠庭英式下午茶乙客。購買兩張可兌換水岸茶屋法式下午茶乙客或雍翠庭午間套餐乙客或歐陸餐廳午間套餐乙客、購買三張可兌換歐陸餐廳午間或雍翠庭午晚間套餐乙客、購買四張可兌換歐陸餐廳晚間或雍翠庭午晚間套餐乙客。平假日皆可用、購買越多選擇多！" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6" target="_blank">
+          【麗禧溫泉酒店】
+</a>      </h2>
+    <h4><a href="/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6" target="_blank">雍翠庭英式下午茶</a></h4>
+
+    <div class="price "><em>450</em>元
+      <span>
+          ( 原價<b>638</b>元,
+          <em>7.1</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市北投區幽雅路30號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市北投區幽雅路30號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/806436-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97-%E9%9B%8D%E7%BF%A0%E5%BA%AD%E8%8B%B1%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/806436/bt" data-topic="806436" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="797911">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=797911" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90" target="_blank">
+      <img alt="只要399元起即可享有【藝廊景觀餐廳】原價最高803元單人餐：(A)義式風情套餐/(B)頂級西餐饗宴，皆含主廚濃湯(附麵包)+陽光堅果百香優格沙拉+綠茶/美式咖啡/檸檬特調飲品等(飲料6選1)+藝廊甜點1份。" src="https://s3.goodlife.tw/system/bt/000/797/911/images/mobile_small_1486596933.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>4305</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90" class="pk" data-share-description="只要399元起即可享有【藝廊景觀餐廳】原價最高803元單人餐：(A)義式風情套餐/(B)頂級西餐饗宴，皆含主廚濃湯(附麵包)+陽光堅果百香優格沙拉+綠茶/美式咖啡/檸檬特調飲品等(飲料6選1)+藝廊甜點1份。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90" class="tt" data-share-description="只要399元起即可享有【藝廊景觀餐廳】原價最高803元單人餐：(A)義式風情套餐/(B)頂級西餐饗宴，皆含主廚濃湯(附麵包)+陽光堅果百香優格沙拉+綠茶/美式咖啡/檸檬特調飲品等(飲料6選1)+藝廊甜點1份。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90" target="_blank">
+          【藝廊景觀餐廳】
+</a>      </h2>
+    <h4><a href="/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90" target="_blank">單人餐</a></h4>
+
+    <div class="price "><em>399</em>元
+      <span>
+          ( 原價<b>627</b>元,
+          <em>6.4</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市板橋區府中路67號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市板橋區府中路67號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/797911-%E8%97%9D%E5%BB%8A%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3-%E5%96%AE%E4%BA%BA%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/797911/bt" data-topic="797911" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="801191">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=801191" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD" target="_blank">
+      <img alt="店取：只要399元起即可享有【連進酸菜白肉鍋】原價最高1,198元酸菜白肉禮盒小份：(A)一盒方案/(B)兩盒方案，每盒內含：帶皮豬五花一份、特選火鍋料一份(凍豆腐+蛋餃+魚餃+泡菜鮮肉丸+竹炭鮮肉丸+香菇鮮肉丸)、獨家酸白菜包一份、紅麴豆腐乳一份+韮菜花醬一份、高湯包一份。" src="https://s3.goodlife.tw/system/bt/000/801/191/images/mobile_small_1487633737.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>2684</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD" class="pk" data-share-description="店取：只要399元起即可享有【連進酸菜白肉鍋】原價最高1,198元酸菜白肉禮盒小份：(A)一盒方案/(B)兩盒方案，每盒內含：帶皮豬五花一份、特選火鍋料一份(凍豆腐+蛋餃+魚餃+泡菜鮮肉丸+竹炭鮮肉丸+香菇鮮肉丸)、獨家酸白菜包一份、紅麴豆腐乳一份+韮菜花醬一份、高湯包一份。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD" class="tt" data-share-description="店取：只要399元起即可享有【連進酸菜白肉鍋】原價最高1,198元酸菜白肉禮盒小份：(A)一盒方案/(B)兩盒方案，每盒內含：帶皮豬五花一份、特選火鍋料一份(凍豆腐+蛋餃+魚餃+泡菜鮮肉丸+竹炭鮮肉丸+香菇鮮肉丸)、獨家酸白菜包一份、紅麴豆腐乳一份+韮菜花醬一份、高湯包一份。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD" target="_blank">
+          【連進酸菜白肉鍋】
+</a>      </h2>
+    <h4><a href="/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD" target="_blank">酸菜白肉禮盒小份</a></h4>
+
+    <div class="price "><em>399</em>元
+      <span>
+          ( 原價<b>1198</b>元,
+          <em>3.3</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市內湖區洲子街108號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市內湖區洲子街108號(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/801191-%E9%80%A3%E9%80%B2%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E9%8D%8B-%E9%85%B8%E8%8F%9C%E7%99%BD%E8%82%89%E7%A6%AE%E7%9B%92%E5%B0%8F%E4%BB%BD/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/801191/bt" data-topic="801191" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="804615">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=804615" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+          <li class="fbcomment">
+            說
+            <a href="/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">1</a>
+          </li>
+      </ul>
+    </div>
+
+    <a href="/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">
+      <img alt="單人豪華饗宴吃到飽！挑逗味蕾極限的燒燙燙美味、任你享受噴發滿嘴肉汁的快感！【極野宴燒肉專門店】正宗日式本格派！垂涎三尺牛肉、豚肉等，保證大呼過癮！ 板橋區 只要609元，即可享有【極野宴 燒肉專門店】單人豪華饗宴吃到飽〈特別推薦：雪沢牛肉、蔥鹽牛舌、孜然子排、磯燒帆立貝、普羅旺斯香嫩雞〉單次兩人以上使用免收燒烤清潔費" src="https://s3.goodlife.tw/system/bt/000/804/615/images/mobile_small_1488768025.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>8938</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" class="pk" data-share-description="單人豪華饗宴吃到飽！挑逗味蕾極限的燒燙燙美味、任你享受噴發滿嘴肉汁的快感！【極野宴燒肉專門店】正宗日式本格派！垂涎三尺牛肉、豚肉等，保證大呼過癮！ 板橋區 只要609元，即可享有【極野宴 燒肉專門店】單人豪華饗宴吃到飽〈特別推薦：雪沢牛肉、蔥鹽牛舌、孜然子排、磯燒帆立貝、普羅旺斯香嫩雞〉單次兩人以上使用免收燒烤清潔費" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" class="tt" data-share-description="單人豪華饗宴吃到飽！挑逗味蕾極限的燒燙燙美味、任你享受噴發滿嘴肉汁的快感！【極野宴燒肉專門店】正宗日式本格派！垂涎三尺牛肉、豚肉等，保證大呼過癮！ 板橋區 只要609元，即可享有【極野宴 燒肉專門店】單人豪華饗宴吃到飽〈特別推薦：雪沢牛肉、蔥鹽牛舌、孜然子排、磯燒帆立貝、普羅旺斯香嫩雞〉單次兩人以上使用免收燒烤清潔費" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">
+          【極野宴 燒肉專門店】
+</a>      </h2>
+    <h4><a href="/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">單人豪華饗宴吃到飽</a></h4>
+
+    <div class="price "><em>609</em>元
+      <span>
+          ( 原價<b>659</b>元,
+          <em>9.2</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市板橋區中山路一段46號5樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市板橋區中山路一段46號5樓
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/804615-%E6%A5%B5%E9%87%8E%E5%AE%B4-%E7%87%92%E8%82%89%E5%B0%88%E9%96%80%E5%BA%97-%E5%96%AE%E4%BA%BA%E8%B1%AA%E8%8F%AF%E9%A5%97%E5%AE%B4%E5%90%83%E5%88%B0%E9%A3%BD/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/804615/bt" data-topic="804615" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="801886">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=801886" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4" target="_blank">
+      <img alt="只要720元(四人價)即可享有【泰夯熱炒】原價920元四人泰式熱炒風味饗宴：月亮蝦餅+涼拌海鮮沙拉+泰風炸皮蛋+清蒸檸檬魚+打拋豬肉/打拋牛肉/綠咖哩椰汁雞/綠咖哩椰汁豬/泰風椒麻雞/孜然豬肉(6選2)+蝦醬空心菜/季節時蔬(2選1)+鮮菇嫩雞湯/青木瓜雞湯(2選1)+白飯無限供應。" src="https://s3.goodlife.tw/system/bt/000/801/886/images/mobile_small_1487806555.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>2184</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4" class="pk" data-share-description="只要720元(四人價)即可享有【泰夯熱炒】原價920元四人泰式熱炒風味饗宴：月亮蝦餅+涼拌海鮮沙拉+泰風炸皮蛋+清蒸檸檬魚+打拋豬肉/打拋牛肉/綠咖哩椰汁雞/綠咖哩椰汁豬/泰風椒麻雞/孜然豬肉(6選2)+蝦醬空心菜/季節時蔬(2選1)+鮮菇嫩雞湯/青木瓜雞湯(2選1)+白飯無限供應。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4" class="tt" data-share-description="只要720元(四人價)即可享有【泰夯熱炒】原價920元四人泰式熱炒風味饗宴：月亮蝦餅+涼拌海鮮沙拉+泰風炸皮蛋+清蒸檸檬魚+打拋豬肉/打拋牛肉/綠咖哩椰汁雞/綠咖哩椰汁豬/泰風椒麻雞/孜然豬肉(6選2)+蝦醬空心菜/季節時蔬(2選1)+鮮菇嫩雞湯/青木瓜雞湯(2選1)+白飯無限供應。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4" target="_blank">
+          【泰夯熱炒】
+</a>      </h2>
+    <h4><a href="/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4" target="_blank">四人泰式熱炒風味饗宴</a></h4>
+
+    <div class="price "><em>720</em>元
+      <span>
+          ( 原價<b>920</b>元,
+          <em>7.8</em>折 )
+      </span>
+    </div>
+
+      <address data-full="新北市永和區永和路1段94號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            新北市永和區永和路1段94號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/801886-%E6%B3%B0%E5%A4%AF%E7%86%B1%E7%82%92-%E5%9B%9B%E4%BA%BA%E6%B3%B0%E5%BC%8F%E7%86%B1%E7%82%92%E9%A2%A8%E5%91%B3%E9%A5%97%E5%AE%B4/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/801886/bt" data-topic="801886" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="797292">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=797292" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90" target="_blank">
+      <img alt="只要759元(雙人價)即可享有【海人刺身丼飯專賣店】原價1,012元雙人丼飯套餐：海人招牌丼/甜蝦干貝丼/鮭魚海岸親子丼/環海刺身丼(4選1)+辣燒小捲定食/無骨牛小排定食/午仔魚定食/塩漬鯖魚定食(4選1)+鮮蝦手捲/鮭魚卵手捲(2選1)+季節限定烤魚x1+主廚特製小菜x1+甜點x2+白飯、鮮魚味噌湯、熱麥茶無限供應。" src="https://s3.goodlife.tw/system/bt/000/797/292/images/mobile_small_1486424156.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>3758</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90" class="pk" data-share-description="只要759元(雙人價)即可享有【海人刺身丼飯專賣店】原價1,012元雙人丼飯套餐：海人招牌丼/甜蝦干貝丼/鮭魚海岸親子丼/環海刺身丼(4選1)+辣燒小捲定食/無骨牛小排定食/午仔魚定食/塩漬鯖魚定食(4選1)+鮮蝦手捲/鮭魚卵手捲(2選1)+季節限定烤魚x1+主廚特製小菜x1+甜點x2+白飯、鮮魚味噌湯、熱麥茶無限供應。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90" class="tt" data-share-description="只要759元(雙人價)即可享有【海人刺身丼飯專賣店】原價1,012元雙人丼飯套餐：海人招牌丼/甜蝦干貝丼/鮭魚海岸親子丼/環海刺身丼(4選1)+辣燒小捲定食/無骨牛小排定食/午仔魚定食/塩漬鯖魚定食(4選1)+鮮蝦手捲/鮭魚卵手捲(2選1)+季節限定烤魚x1+主廚特製小菜x1+甜點x2+白飯、鮮魚味噌湯、熱麥茶無限供應。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90" target="_blank">
+          【海人刺身丼飯專賣店】
+</a>      </h2>
+    <h4><a href="/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90" target="_blank">雙人丼飯套餐</a></h4>
+
+    <div class="price "><em>759</em>元
+      <span>
+          ( 原價<b>1012</b>元,
+          <em>7.5</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市萬華區武昌街2段74號2樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市萬華區武昌街2段7...(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/797292-%E6%B5%B7%E4%BA%BA%E5%88%BA%E8%BA%AB%E4%B8%BC%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-%E9%9B%99%E4%BA%BA%E4%B8%BC%E9%A3%AF%E5%A5%97%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/797292/bt" data-topic="797292" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食" data-topic_id="788731">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=788731" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8" target="_blank">
+      <img alt="維持260度以上的炭火熱度，精華肉汁牢牢鎖在其中！【原燒 優質原味燒肉】全台通用餐券，破盤限量推出！ 多分店 每張只要705元起，即可享有【原燒 優質原味燒肉】全省通用餐券〈二張/四張/十張，平假日皆可使用，無使用期限〉" src="https://s3.goodlife.tw/system/bt/000/788/731/images/mobile_small_1483584070.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>67046</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8" class="pk" data-share-description="維持260度以上的炭火熱度，精華肉汁牢牢鎖在其中！【原燒 優質原味燒肉】全台通用餐券，破盤限量推出！ 多分店 每張只要705元起，即可享有【原燒 優質原味燒肉】全省通用餐券〈二張/四張/十張，平假日皆可使用，無使用期限〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8" class="tt" data-share-description="維持260度以上的炭火熱度，精華肉汁牢牢鎖在其中！【原燒 優質原味燒肉】全台通用餐券，破盤限量推出！ 多分店 每張只要705元起，即可享有【原燒 優質原味燒肉】全省通用餐券〈二張/四張/十張，平假日皆可使用，無使用期限〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8" target="_blank">
+          【原燒 優質原味燒肉】
+</a>      </h2>
+    <h4><a href="/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8" target="_blank">全省通用餐券</a></h4>
+
+    <div class="price "><em>705</em>元
+      <span>
+          ( 原價<b>748</b>元,
+          <em>9.4</em>折 )
+      </span>
+    </div>
+
+      <address data-full="全國分店">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            全國分店
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/788731-%E5%8E%9F%E7%87%92-%E5%84%AA%E8%B3%AA%E5%8E%9F%E5%91%B3%E7%87%92%E8%82%89-%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%E9%A4%90%E5%88%B8/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/788731/bt" data-topic="788731" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="790349">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=790349" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90" target="_blank">
+      <img alt="吃到飽！只要580元即可享有【小紅廚房KitchenX】原價869元單人平假日豪華海陸晚餐Semi Buffet：美國頂級肋牛排/薄片老饕牛排/酥烤豬排佐紅酒醬/迷迭香料雞腿佐奶油芥末籽醬/BBQ豬肋排(5選1)+焗烤扇貝2顆/干貝2顆/白酒海大蝦2隻/明太子軟殼蟹1隻(4選1)+中西式多款湯品、蒸點、時令海鮮熱食料理、冷熱開胃菜、鮮蝦區、蔬食沙拉、繽紛甜點、冰淇淋等。" src="https://s3.goodlife.tw/system/bt/000/790/349/images/mobile_small_1484091354.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>6404</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90" class="pk" data-share-description="吃到飽！只要580元即可享有【小紅廚房KitchenX】原價869元單人平假日豪華海陸晚餐Semi Buffet：美國頂級肋牛排/薄片老饕牛排/酥烤豬排佐紅酒醬/迷迭香料雞腿佐奶油芥末籽醬/BBQ豬肋排(5選1)+焗烤扇貝2顆/干貝2顆/白酒海大蝦2隻/明太子軟殼蟹1隻(4選1)+中西式多款湯品、蒸點、時令海鮮熱食料理、冷熱開胃菜、鮮蝦區、蔬食沙拉、繽紛甜點、冰淇淋等。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90" class="tt" data-share-description="吃到飽！只要580元即可享有【小紅廚房KitchenX】原價869元單人平假日豪華海陸晚餐Semi Buffet：美國頂級肋牛排/薄片老饕牛排/酥烤豬排佐紅酒醬/迷迭香料雞腿佐奶油芥末籽醬/BBQ豬肋排(5選1)+焗烤扇貝2顆/干貝2顆/白酒海大蝦2隻/明太子軟殼蟹1隻(4選1)+中西式多款湯品、蒸點、時令海鮮熱食料理、冷熱開胃菜、鮮蝦區、蔬食沙拉、繽紛甜點、冰淇淋等。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90" target="_blank">
+          【小紅廚房KitchenX】
+</a>      </h2>
+    <h4><a href="/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90" target="_blank">單人平假日豪華海陸晚餐</a></h4>
+
+    <div class="price "><em>580</em>元
+      <span>
+          ( 原價<b>869</b>元,
+          <em>6.7</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區南京東路三段131號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區南京東路三段131號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/790349-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E5%81%87%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E6%99%9A%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/790349/bt" data-topic="790349" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="785354">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=785354" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">
+      <img alt="吃到飽！只要299元即可享用【長春素食】原價396元單人歐式下午茶自助吃到飽。" src="https://s3.goodlife.tw/system/bt/000/785/354/images/mobile_small_1482622526.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>8907</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD" class="pk" data-share-description="吃到飽！只要299元即可享用【長春素食】原價396元單人歐式下午茶自助吃到飽。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD" class="tt" data-share-description="吃到飽！只要299元即可享用【長春素食】原價396元單人歐式下午茶自助吃到飽。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">
+          【長春素食】
+</a>      </h2>
+    <h4><a href="/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD" target="_blank">單人歐式下午茶自助吃到飽</a></h4>
+
+    <div class="price "><em>299</em>元
+      <span>
+          ( 原價<b>396</b>元,
+          <em>7.6</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區新生北路二段38號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區新生北路二段38號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/785354-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E5%90%83%E5%88%B0%E9%A3%BD/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/785354/bt" data-topic="785354" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="790348">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=790348" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet" target="_blank">
+      <img alt="吃到飽！只要480元即可享有【小紅廚房KitchenX】原價869元單人平日豪華海陸午餐Semi Buffet：美國頂級肋牛排/薄片老饕牛排/酥烤豬排佐紅酒醬/迷迭香料雞腿佐奶油芥末籽醬/BBQ豬肋排(5選1)+焗烤扇貝2顆/干貝2顆/白酒海大蝦2隻/明太子軟殼蟹1隻(4選1)+中西式多款湯品、蒸點、麵包、冷熱開胃菜、鮮蝦區、蔬食沙拉、季節水果、繽紛甜點、冰淇淋、冷熱飲品。" src="https://s3.goodlife.tw/system/bt/000/790/348/images/mobile_small_1484091354.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>6252</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet" class="pk" data-share-description="吃到飽！只要480元即可享有【小紅廚房KitchenX】原價869元單人平日豪華海陸午餐Semi Buffet：美國頂級肋牛排/薄片老饕牛排/酥烤豬排佐紅酒醬/迷迭香料雞腿佐奶油芥末籽醬/BBQ豬肋排(5選1)+焗烤扇貝2顆/干貝2顆/白酒海大蝦2隻/明太子軟殼蟹1隻(4選1)+中西式多款湯品、蒸點、麵包、冷熱開胃菜、鮮蝦區、蔬食沙拉、季節水果、繽紛甜點、冰淇淋、冷熱飲品。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet" class="tt" data-share-description="吃到飽！只要480元即可享有【小紅廚房KitchenX】原價869元單人平日豪華海陸午餐Semi Buffet：美國頂級肋牛排/薄片老饕牛排/酥烤豬排佐紅酒醬/迷迭香料雞腿佐奶油芥末籽醬/BBQ豬肋排(5選1)+焗烤扇貝2顆/干貝2顆/白酒海大蝦2隻/明太子軟殼蟹1隻(4選1)+中西式多款湯品、蒸點、麵包、冷熱開胃菜、鮮蝦區、蔬食沙拉、季節水果、繽紛甜點、冰淇淋、冷熱飲品。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet" target="_blank">
+          【小紅廚房KitchenX】
+</a>      </h2>
+    <h4><a href="/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet" target="_blank">單人平日豪華海陸午餐Semi Buffet</a></h4>
+
+    <div class="price "><em>480</em>元
+      <span>
+          ( 原價<b>869</b>元,
+          <em>5.5</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區南京東路三段131號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區南京東路三段131號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/790348-%E5%B0%8F%E7%B4%85%E5%BB%9A%E6%88%BFKitchenX-%E5%96%AE%E4%BA%BA%E5%B9%B3%E6%97%A5%E8%B1%AA%E8%8F%AF%E6%B5%B7%E9%99%B8%E5%8D%88%E9%A4%90Semi-Buffet/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/790348/bt" data-topic="790348" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="805310">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=805310" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" target="_blank">
+      <img alt="【行門行素園，蔬食創意饗宴】210元可享平日300元消費！完美呈現蔬食料理的原汁原味，讓喜愛嚐鮮的麻吉饕客，大嚐不一樣的蔬食也是素食的創意料理！ 大同區 只要210元，即可享有【行門行素園，蔬食創意饗宴】平日可抵用300元消費金額〈特別推薦：避風塘嫩白菇、猴茹泰三杯、素黃雀、泰味螞蟻上樹、糖醋積丁、泰式月亮蝦餅、宋丹(涼拌青木瓜)、養生藥膳鍋〉" src="https://s3.goodlife.tw/system/bt/000/805/310/images/mobile_small_1488940961.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>7810</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" class="pk" data-share-description="【行門行素園，蔬食創意饗宴】210元可享平日300元消費！完美呈現蔬食料理的原汁原味，讓喜愛嚐鮮的麻吉饕客，大嚐不一樣的蔬食也是素食的創意料理！ 大同區 只要210元，即可享有【行門行素園，蔬食創意饗宴】平日可抵用300元消費金額〈特別推薦：避風塘嫩白菇、猴茹泰三杯、素黃雀、泰味螞蟻上樹、糖醋積丁、泰式月亮蝦餅、宋丹(涼拌青木瓜)、養生藥膳鍋〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" class="tt" data-share-description="【行門行素園，蔬食創意饗宴】210元可享平日300元消費！完美呈現蔬食料理的原汁原味，讓喜愛嚐鮮的麻吉饕客，大嚐不一樣的蔬食也是素食的創意料理！ 大同區 只要210元，即可享有【行門行素園，蔬食創意饗宴】平日可抵用300元消費金額〈特別推薦：避風塘嫩白菇、猴茹泰三杯、素黃雀、泰味螞蟻上樹、糖醋積丁、泰式月亮蝦餅、宋丹(涼拌青木瓜)、養生藥膳鍋〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" target="_blank">
+          【行門行素園，蔬食創意饗宴】
+</a>      </h2>
+    <h4><a href="/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D" target="_blank">平日可抵用300元消費金額</a></h4>
+
+    <div class="price "><em>210</em>元
+      <span>
+          ( 原價<b>300</b>元,
+          <em>7.0</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市大同區民權西路143號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市大同區民權西路143號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/805310-%E8%A1%8C%E9%96%80%E8%A1%8C%E7%B4%A0%E5%9C%92%EF%BC%8C%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E9%A5%97%E5%AE%B4-%E5%B9%B3%E6%97%A5%E5%8F%AF%E6%8A%B5%E7%94%A8300%E5%85%83%E6%B6%88%E8%B2%BB%E9%87%91%E9%A1%8D/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/805310/bt" data-topic="805310" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="805649">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=805649" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90" target="_blank">
+      <img alt="親切的價格，優質的美食享受！【錢都日式涮涮鍋】家喻戶曉的香熱涮涮鍋！精緻上選大份量肉盤，滿足肉食派的你！ 文山區 只要320元，即可享有【錢都日式涮涮鍋】單人海陸雙拼套餐〈二鮮一陸鍋：培根牛肉/培根豬肉/培根羊肉/煙燻培根豬肉/梅花豬肉/大眾羊肉/大眾豬肉/黃金雞肉 八選一 + 海鮮雙拼一份(蛤蜊/鮮魚/鮮蝦 三選二) + 精選鍋料菜盤一份 + 滷鴨血/貢丸/魚餃/蛋餃/青菜(當季) 五選一 + 白飯/烏龍麵/冬粉/王子麵 四選一 + 餐後甜點一份 + 飲料、冰淇淋無限自助吧〉" src="https://s3.goodlife.tw/system/bt/000/805/649/images/mobile_small_1489027321.jpg" />
+</a>
+    <h3><a href="/companies/GOMAJI%E5%A4%A0%E9%BA%BB%E5%90%89">GOMAJI夠麻吉</a></h3>
+
+      <div class="buyers"><em>5305</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90" class="pk" data-share-description="親切的價格，優質的美食享受！【錢都日式涮涮鍋】家喻戶曉的香熱涮涮鍋！精緻上選大份量肉盤，滿足肉食派的你！ 文山區 只要320元，即可享有【錢都日式涮涮鍋】單人海陸雙拼套餐〈二鮮一陸鍋：培根牛肉/培根豬肉/培根羊肉/煙燻培根豬肉/梅花豬肉/大眾羊肉/大眾豬肉/黃金雞肉 八選一 + 海鮮雙拼一份(蛤蜊/鮮魚/鮮蝦 三選二) + 精選鍋料菜盤一份 + 滷鴨血/貢丸/魚餃/蛋餃/青菜(當季) 五選一 + 白飯/烏龍麵/冬粉/王子麵 四選一 + 餐後甜點一份 + 飲料、冰淇淋無限自助吧〉" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90" class="tt" data-share-description="親切的價格，優質的美食享受！【錢都日式涮涮鍋】家喻戶曉的香熱涮涮鍋！精緻上選大份量肉盤，滿足肉食派的你！ 文山區 只要320元，即可享有【錢都日式涮涮鍋】單人海陸雙拼套餐〈二鮮一陸鍋：培根牛肉/培根豬肉/培根羊肉/煙燻培根豬肉/梅花豬肉/大眾羊肉/大眾豬肉/黃金雞肉 八選一 + 海鮮雙拼一份(蛤蜊/鮮魚/鮮蝦 三選二) + 精選鍋料菜盤一份 + 滷鴨血/貢丸/魚餃/蛋餃/青菜(當季) 五選一 + 白飯/烏龍麵/冬粉/王子麵 四選一 + 餐後甜點一份 + 飲料、冰淇淋無限自助吧〉" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90" target="_blank">
+          【錢都日式涮涮鍋】
+</a>      </h2>
+    <h4><a href="/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90" target="_blank">單人海陸雙拼套餐</a></h4>
+
+    <div class="price "><em>320</em>元
+      <span>
+          ( 原價<b>400</b>元,
+          <em>8.0</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市文山區景隆街12號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市文山區景隆街12號(多家)
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/805649-%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8%E9%9B%99%E6%8B%BC%E5%A5%97%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/805649/bt" data-topic="805649" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="788889">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=788889" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88" target="_blank">
+      <img alt="吃到飽！只要499元起即可享有【Lacuz《台大公館店》】原價最高649元單人全時段吃到飽：(A)平日方案/(B)假日方案。" src="https://s3.goodlife.tw/system/bt/000/788/889/images/mobile_small_1483659333.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>5972</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88" class="pk" data-share-description="吃到飽！只要499元起即可享有【Lacuz《台大公館店》】原價最高649元單人全時段吃到飽：(A)平日方案/(B)假日方案。" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88" class="tt" data-share-description="吃到飽！只要499元起即可享有【Lacuz《台大公館店》】原價最高649元單人全時段吃到飽：(A)平日方案/(B)假日方案。" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88" target="_blank">
+          【Lacuz《台大公館店》】
+</a>      </h2>
+    <h4><a href="/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88" target="_blank">單人全時段吃到飽 (A)(B)方案</a></h4>
+
+    <div class="price "><em>499</em>元
+      <span>
+          ( 原價<b>594</b>元,
+          <em>8.4</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市大安區羅斯福路四段85號2樓">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市大安區羅斯福路四段85號2樓
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/788889-Lacuz%E3%80%8A%E5%8F%B0%E5%A4%A7%E5%85%AC%E9%A4%A8%E5%BA%97%E3%80%8B-%E5%96%AE%E4%BA%BA%E5%85%A8%E6%99%82%E6%AE%B5%E5%90%83%E5%88%B0%E9%A3%BD-A-B-%E6%96%B9%E6%A1%88/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/788889/bt" data-topic="788889" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+<!-- issue #65: 團購item -->
+<li class="item_list">
+  <div class="item 美食 即用" data-topic_id="785353">
+    <div class="quick-fav">
+      <a href="/collections/toggle?topic_id=785353" data-method="post" data-remote="true" rel="nofollow">加入收藏</a>
+    </div>
+    <div class="items_discussions">
+      <ul>
+      </ul>
+    </div>
+
+    <a href="/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90" target="_blank">
+      <img alt="吃到飽！只要499元即可享用【長春素食】原價660元單人歐式素食午晚自助餐點吃到飽！" src="https://s3.goodlife.tw/system/bt/000/785/353/images/mobile_small_1482622526.jpg" />
+</a>
+    <h3><a href="/companies/17Life">17Life</a></h3>
+
+      <div class="buyers"><em>6684</em>人已購買</div>
+
+    <div class="share">
+      <a href="http://buy.goodlife.tw/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90" class="fb" data-share="facebook">Facebook</a>
+      <a href="http://buy.goodlife.tw/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90" class="pk" data-share-description="吃到飽！只要499元即可享用【長春素食】原價660元單人歐式素食午晚自助餐點吃到飽！" data-share="plurk">Plurk</a>
+      <a href="http://buy.goodlife.tw/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90" class="tt" data-share-description="吃到飽！只要499元即可享用【長春素食】原價660元單人歐式素食午晚自助餐點吃到飽！" data-share="twitter">Twitter</a>
+    </div>
+
+      <h2>
+        <a href="/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90" target="_blank">
+          【長春素食】
+</a>      </h2>
+    <h4><a href="/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90" target="_blank">單人歐式素食午晚自助餐</a></h4>
+
+    <div class="price "><em>499</em>元
+      <span>
+          ( 原價<b>660</b>元,
+          <em>7.6</em>折 )
+      </span>
+    </div>
+
+      <address data-full="台北市中山區新生北路二段38號">
+          <a href='javascript:void(0)' class="colorbox_address_map">
+            台北市中山區新生北路二段38號
+          </a>
+      </address>
+
+    <p class="countdown">
+        限時優惠中！
+    </p>
+
+    <!-- 假如是管理員，顯示修改連結 -->
+    <span class="edit_topic uid_10 edit" style="display:none;">
+      <a href="/admin/buy/topics/785353-%E9%95%B7%E6%98%A5%E7%B4%A0%E9%A3%9F-%E5%96%AE%E4%BA%BA%E6%AD%90%E5%BC%8F%E7%B4%A0%E9%A3%9F%E5%8D%88%E6%99%9A%E8%87%AA%E5%8A%A9%E9%A4%90/edit" target="_blank">修改</a>
+    </span>
+    <!-- end -->
+
+    <div class="buy">
+      <a href="/go/785353/bt" data-topic="785353" rel="nofollow" target="_blank">搶購去</a>
+    </div>
+  </div>
+</li>
+
