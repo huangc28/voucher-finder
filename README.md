@@ -19,9 +19,15 @@ Try to find all the good deals around where he /she lives. This specific tourist
 
 1. Try to crawl vendors information from various category of. Pick sources to crawl.
 2. Save the crawled data to the database.
-3. Display the distance between the geolocation of the user and dealspot googlemap
+3. Display the distance between the Geolocation of the user and dealspot googlemap
 
-## Sources
+## What the server should do
+
+1. Take in the location of the hostile.
+2. Convert that into Geolocation through google map api.
+3. Retrieve all locations that is within the specified radius.
+
+## Data Sources
 
 This [source](http://buy.goodlife.tw) is the main place where I'm going to crawl my data for this phase. Following is the pattern of the api that I'm planning in using.
 
@@ -89,13 +95,93 @@ Now we have the address of different deal, we are now able to retrieve spatial l
 [google map geolocation api](https://developers.google.com/maps/documentation/geocoding/intro?hl=zh-tw)
 
 
+### Google Maps Geocoding API
+
+I have to register an API key inorder to request Google Map api. I'll go ahead and do that first.
+
+I only have 2500 requests quota daily, I can raise up the quota, but it costs... [money](https://developers.google.com/maps/documentation/geocoding/usage-limits)
+
+Here is the sample response for requesting API successfully:
+
+```
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "仁愛路四段",
+               "short_name" : "仁愛路四段",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "大安區",
+               "short_name" : "大安區",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "台北市",
+               "short_name" : "台北市",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "台灣",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "106台灣台北市大安區仁愛路四段2號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0376729,
+               "lng" : 121.5439808
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0390218802915,
+                  "lng" : 121.5453297802915
+               },
+               "southwest" : {
+                  "lat" : 25.0363239197085,
+                  "lng" : 121.5426318197085
+               }
+            }
+         },
+         "place_id" : "ChIJW-9XQNGrQjQR95O1PlyPIFI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+```
+
+## Request google map API to fetch geometry of all addresses
+
+I need some kind of cron job to help me to convert all addresses to gelometry location through google map API.
+
+Wait for 7 seconds in between each request. 7 sec * 600 = 4200 sec.
+
+**Manage google APIs**
+
+[google api console](https://console.developers.google.com/)
+
 ## Postgresql
 
 ### connect database
 
 `\connect database_name`
 
-### list all database
+### List all database
 
 `\list`
 
@@ -103,11 +189,19 @@ Now we have the address of different deal, we are now able to retrieve spatial l
 
 `\dt`
 
+### Connect with username
+
+`psql --username=huangc28`
+
+###
+
 ## Reference
 
 1. [neo4j](https://neo4j.com/product)
 2. [postGIS](http://postgis.net)
 3. [knexjs](http://knexjs.org/)
+4. [node process stdin](http://stackoverflow.com/questions/4976466/difference-between-process-stdout-write-and-console-log-in-node-js)
+5. [postgres & postgis tutorial for beginner](http://gis.stackexchange.com/questions/3251/getting-started-with-postgis)
 
 ## Problems Encounterred
 

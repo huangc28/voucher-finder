@@ -12,6 +12,7 @@ exports.up = function(knex, Promise) {
     table.integer('number_of_buyers').nullable()
     table.timestamp('created_at').defaultTo(knex.fn.now())
   })
+  .raw('ALTER TABLE deals ADD COLUMN point geography(POINT)')
 };
 
 exports.down = function(knex, Promise) {
