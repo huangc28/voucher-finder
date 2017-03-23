@@ -10,6 +10,8 @@ exports.up = function(knex, Promise) {
     table.integer('price_after_discount').nullable()
     table.string('address').nullable()
     table.integer('number_of_buyers').nullable()
+    table.float('lng').nullable()
+    table.float('lat').nullable()
     table.timestamp('created_at').defaultTo(knex.fn.now())
   })
   .raw('ALTER TABLE deals ADD COLUMN point geography(POINT)')

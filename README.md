@@ -165,11 +165,14 @@ Here is the sample response for requesting API successfully:
 }
 ```
 
-## Request google map API to fetch geometry of all addresses
+## Request google map API to fetch geography (lng/lat) of all addresses
 
-I need some kind of cron job to help me to convert all addresses to gelometry location through google map API.
-
+I need some kind of cron job to help me to convert all addresses to geography location through google map API.
 Wait for 7 seconds in between each request. 7 sec * 600 = 4200 sec.
+
+## I was wrong!?
+
+I was thinking about using `setTimeout` on every iteration of the loop, I can simply use **generator** pattern to `yield` execution on each iteration to makesure each step has been executed before proceed to the next iteration.
 
 **Manage google APIs**
 
@@ -192,8 +195,6 @@ Wait for 7 seconds in between each request. 7 sec * 600 = 4200 sec.
 ### Connect with username
 
 `psql --username=huangc28`
-
-###
 
 ## Reference
 
@@ -219,3 +220,4 @@ psql: could not connect to server: No such file or directory
 4. Enable following 2 extensions for future usage [(reference)](http://postgis.net/install/):
   - `CREATE EXTENSION postgis;`
   - `CREATE EXTENSION postgis_topology;`
+5. [find nearest point from the specified location](https://boundlessgeo.com/2011/09/indexed-nearest-neighbour-search-in-postgis/)

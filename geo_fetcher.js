@@ -1,9 +1,9 @@
 const https = require('https')
 const dbConfig  = require('./knexfile.js').development
-
-// Initialize ORM for "deals".
 const knex = require('knex')(dbConfig)
 const bookshelf =  require('bookshelf')(knex)
+
+
 
 module.exports = { knex, bookshelf }
 
@@ -29,6 +29,7 @@ const requestGeodetic = address => {
       let rawData = ''
 
       res.on('data', chunk => {
+        console.log('chunk', chunk)
         rawData += chunk
       })
 
@@ -44,7 +45,16 @@ const updatePointToDB = (id, lng, lat) => {
   return new Promise((resolve, reject) => {
     bookshelf
       .knex
-      .raw(`UPDATE deals SET point=ST_GeogFromText('POINT(${lng} ${lat})') WHERE id=${id}`)
+      .raw(`
+        UPDATE
+          deals
+        SET
+          point=ST_GeogFromText('POINT(${lng} ${lat})'),
+          lng=${lng},
+          lat=${lat}
+        WHERE
+          id=${id}`
+      )
       .then(result => {
         resolve(resolve)
       })
@@ -63,7 +73,7 @@ function * convertGeoFlow (id, address) {
       geometry: {
         location: {lat, lng}
       },
-    } = response.result[0]
+    } = response.results[0]
 
     const result = yield updatePointToDB(id, lng, lat)
 
