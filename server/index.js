@@ -20,7 +20,7 @@ const KILOMETER = 1000
  * @param {string} address
  * @returns {Promise}
  */
-const fetchAddressToCoordinate = (address) => {
+const fetchAddressToCoordinate = address => {
   return new Promise((resolve, reject) => {
     fetch(`${GOOGLE_MAP_BASE_API}?address=${address}&key=${GOOGLE_API_KEY}`)
       .then(response => response.json())
@@ -139,10 +139,10 @@ app.get('/find-deals', (req, res, next) => {
   .catch(next)
 })
 
-router.use((error, req, res) => {
+app.use((error, req, res) => {
   res.json(error)
 })
 
 app.listen(3007, () => {
-  console.log('Geo fetcher hosted!')
+  console.log('Geo fetcher hosted! Hosted on port: 3007')
 })
